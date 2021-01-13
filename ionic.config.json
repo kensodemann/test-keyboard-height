@@ -1,5 +1,7 @@
 {
   "name": "test-keyboard-height",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
